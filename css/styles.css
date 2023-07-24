@@ -81,6 +81,7 @@ body {
   font-weight: 500;
   line-height: 150%;
   letter-spacing: 0.64px;
+  font-family: "Roboto";
 }
 
 .hero-button:hover,
@@ -164,12 +165,13 @@ body {
   font-weight: 500;
   line-height: 150%;
   letter-spacing: 0.64px;
+  font-family: "Roboto";
+  cursor: pointer;
 }
 .filter-button:hover,
 .filter-button:focus {
   background-color: var(--link-active);
   color: var(--light);
-  cursor: pointer;
 }
 
 .projects-list {
